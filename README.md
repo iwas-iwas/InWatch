@@ -1,4 +1,4 @@
-![Screenshot](assets/inwatch_banner_3.png)
+![Screenshot](assets/inwatch_banner_2.jpg)
 
 ## View App: http://inwatch.herokuapp.com/ 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://inwatch.herokuapp.com/)
