@@ -3,7 +3,7 @@
 ## View App: http://inwatch.herokuapp.com/ 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://inwatch.herokuapp.com/)
 
-InWatch is a web application that transforms raw apple watch sensor-data to an interactive multi-page dashboard with visualizations (time series, distributions etc.) insightful statistics and creates tools to utilize the measured data (e.g. smart diet tracker).
+InWatch is a web application that transforms raw apple watch sensor-data into a interactive multi-page dashboard with visualizations (time series, distributions etc.) insightful statistics and creates tools to utilize the measured data (e.g. smart diet tracker).
 
 Used Technologies/Stack: Flask, Dash by Plotly, SQLAlchemy(SQLite), Pandas, Numpy, Plotly, Bootstrap, HTML, CSS, Heroku 
 
@@ -29,7 +29,7 @@ Important Libraries: [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy
 
 ![Screenshot](assets/workout_page.png)
 
-**Smart Diet Page**: Smart Diet that visualizes weight and bmi over time. Every time the weight is upgraded the new weight will be added to the SQLite database and at the same time the visualizations and statistics are upgraded. I also implented a tool to be able to set a weight-goal and goal-date, which utilizes sensor-data of burned energy to accurately calculate how many calories need to be consumed in order to succesfully reach the weight-goal in time for the date-goal!
+**Smart Diet Page**: Everytime the weight is upgraded, the new weight is added to the SQLite database and the visualizations and statistics are upgraded simultaneously, too. I also implented a tool to be able to set a weight-goal and goal-date, which utilizes sensor-data of burned energy to accurately calculate how many calories need to be consumed in order to succesfully reach the weight-goal in time for the date-goal!
 
 ![Screenshot](assets/diet_page.png)
 
