@@ -3,7 +3,7 @@
 ## View App: http://inwatch.herokuapp.com/ 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://inwatch.herokuapp.com/)
 
-InWatch is a web application that transforms raw Apple Watch sensor-data into an interactive multi-page dashboard with visualizations, insightful statistics and creates tools to utilize the measured data.
+InWatch is a web application that transforms raw Apple Watch sensor-data into an interactive multi-page dashboard with visualizations, insightful statistics and offers tools to utilize the measured data.
 
 Used Technologies/Stack: Flask, Dash by Plotly, SQLAlchemy(SQLite), Pandas, Numpy, Plotly, Bootstrap, HTML, CSS, Heroku 
 
