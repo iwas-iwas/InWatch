@@ -1,7 +1,7 @@
 ![Screenshot](assets/inwatch_banner_2.jpg)
 
 ## View App: http://inwatch.herokuapp.com/ 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://inwatch.herokuapp.com/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://inwatch.herokuapp.com/) (initial load takes a while - fix coming soon)
 
 InWatch is a web application that transforms raw Apple Watch sensor-data into an interactive multi-page dashboard with visualizations, insightful statistics and offers tools to utilize the measured data.
 
