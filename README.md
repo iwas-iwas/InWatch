@@ -1,7 +1,6 @@
 ![Screenshot](assets/inwatch_banner_2.jpg)
 
-## View App: http://inwatch.herokuapp.com/ 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://inwatch.herokuapp.com/) (initial page-load takes a while)
+## View App: The Website is not hosted anymore.
 
 InWatch is a web application that transforms raw Apple Watch sensor-data into an interactive multi-page dashboard with visualizations, insightful statistics and offers tools to utilize the measured data.
 
@@ -33,6 +32,3 @@ Important Libraries: [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy
 
 ![Screenshot](assets/diet_page.png)
 
-Next Steps:
-
-- Implement Upload Component to let Users upload their own personal data to be able to receive their own personal Dashboards
